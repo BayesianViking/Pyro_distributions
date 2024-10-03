@@ -1,6 +1,4 @@
 # Pyro_distributions
-email: christian.s.breinholt@gmail.com
-email2: christian.breinholt@sund.ku.dk
 linkedIn: https://dk.linkedin.com/in/christian-sigvald-breinholt
 
 I am always eager to help and answer questions. So reach out if you need help or sparring. it's best to use the contact details provided above.
